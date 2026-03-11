@@ -1,4 +1,4 @@
-import java.util.Scanner;23.
+import java.util.Scanner;
 public class Calorie_Consumption{
     public static void main(String args[]){
         Scanner in= new Scanner(System.in);
